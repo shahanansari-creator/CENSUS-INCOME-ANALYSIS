@@ -231,7 +231,7 @@ A selection of the visualizations generated in the notebook:
 
 ## 📄 Report
 
-A full written report — including methodology, all EDA figures, and detailed model interpretation — is available in [`Census_Income_Project_Report.docx`](./Census_Income_Project_Report.docx).
+A full written report — including methodology, all EDA figures, and detailed model interpretation — is available in [`Census_Income_Project_Report.pdf`](./Census_Income_Project_Report.pdf).
 
 
 
